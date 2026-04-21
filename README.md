@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 한신대학교 aisw계열 박윤서 입니다.😊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text# 한신대학교 aisw계열 박윤서 입니다&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text#=안녕하세요&fontSize=90" />
 
 
 💻 **Main Focus**: c, python
