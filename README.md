@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 한신대학교 aisw계열 박윤서 입니다.😊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text#=안녕하세요&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=pyus's%20GitHub&fontSize=42" />
 
 <img src="https://img.shields.io/badge/c-bluestyle=flat&logo=c&logoColor=white"/>
 💻 **Main Focus**: c, python
@@ -12,6 +12,8 @@
   
 ![js](https://img.shields.io/badge/C-239120?&style=flat&logo=c3&logoColor=white)
 ![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 ⚡ Skills
 
 **Languages** | c, Python
