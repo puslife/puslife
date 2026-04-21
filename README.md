@@ -1,10 +1,11 @@
 ## Hi there 👋
 # 한신대학교 aisw계열 박윤서 입니다.😊
 
-type=wave
 
 💻 **Main Focus**: c, python
+
 🏃 **Activity**: c언어 스터디, 랩실 활동
+
 
 ⚡ Skills
 **Languages** | c, Python
