@@ -6,6 +6,7 @@
 
 ⚡ Skills
 **Languages** | c, Python
+
 **study** | ai sw개론, 컴퓨팅 사고, 공학설계입문
 
 🚀 About Me
