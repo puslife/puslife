@@ -8,7 +8,9 @@
 
 
 ⚡ Skills
+
 **Languages** | c, Python
 
 **study** | ai sw개론, 공학설계입문
 
+<img src="https://github-readme-stats.vercel.app/api?username=puslife&show_icons=true">
