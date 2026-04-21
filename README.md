@@ -8,7 +8,10 @@
 
 🏃 **Activity**: c언어 스터디, 랩실 활동
 
-
+📚 Languages / Library / Tools 📚
+  
+![js](https://img.shields.io/badge/C-239120?&style=flat&logo=c3&logoColor=white)
+![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ⚡ Skills
 
 **Languages** | c, Python
