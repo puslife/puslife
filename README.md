@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=pyus's%20GitHub&fontSize=42" />
 
-<img src="https://img.shields.io/badge/c-bluestyle=flat&logo=c&logoColor=white"/>
-💻 **Main Focus**: c, python
 
 🏃 **Activity**: c언어 스터디, 랩실 활동
 
@@ -21,5 +19,5 @@
 **study** | ai sw개론, 공학설계입문
 
 <img src="https://github-readme-stats.vercel.app/api?username=puslife&show_icons=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puslife&layout=compact"><br><br>
 
